@@ -1,0 +1,44 @@
+Change Component Designator: OldDesignator= NewDesignator=J1
+Change Component Designator: OldDesignator= NewDesignator=J2
+Change Component Designator: OldDesignator= NewDesignator=J3
+Change Component Designator: OldDesignator= NewDesignator=LED1
+Change Component Designator: OldDesignator= NewDesignator=LED2
+Change Component Designator: OldDesignator= NewDesignator=LED3
+Change Component Designator: OldDesignator= NewDesignator=LED4
+Change Component Designator: OldDesignator= NewDesignator=LED5
+Change Component Designator: OldDesignator= NewDesignator=LED6
+Change Component Designator: OldDesignator= NewDesignator=LED7
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator= NewDesignator=R2
+Change Component Designator: OldDesignator= NewDesignator=R3
+Change Component Designator: OldDesignator= NewDesignator=R4
+Change Component Designator: OldDesignator= NewDesignator=R5
+Change Component Designator: OldDesignator= NewDesignator=R6
+Change Component Designator: OldDesignator= NewDesignator=R7
+Added Component: Designator=C1(CAPC2013X140N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "08053C474JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-08053C474JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/08053C474JAT2A?qs=bb%252B1MDm7h6L8wnHciIrwGg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Member To Class: ClassName=uln2003_Shematics Member=Component C1 08053C474JAT2A
+Added Member To Class: ClassName=uln2003_Shematics Member=Component J1 Header Pins
+Added Member To Class: ClassName=uln2003_Shematics Member=Component J2 Header Pins
+Added Member To Class: ClassName=uln2003_Shematics Member=Component J3 Header Pins
+Added Member To Class: ClassName=uln2003_Shematics Member=Component LED1 150080BS75000
+Added Member To Class: ClassName=uln2003_Shematics Member=Component LED2 150080BS75000
+Added Member To Class: ClassName=uln2003_Shematics Member=Component LED3 150080BS75000
+Added Member To Class: ClassName=uln2003_Shematics Member=Component LED4 150080BS75000
+Added Member To Class: ClassName=uln2003_Shematics Member=Component LED5 150080BS75000
+Added Member To Class: ClassName=uln2003_Shematics Member=Component LED7 150080BS75000
+Added Member To Class: ClassName=uln2003_Shematics Member=Component R1 220
+Added Member To Class: ClassName=uln2003_Shematics Member=Component R2 220
+Added Member To Class: ClassName=uln2003_Shematics Member=Component R3 220
+Added Member To Class: ClassName=uln2003_Shematics Member=Component R4 220
+Added Member To Class: ClassName=uln2003_Shematics Member=Component R5 220
+Added Member To Class: ClassName=uln2003_Shematics Member=Component R6 220
+Added Member To Class: ClassName=uln2003_Shematics Member=Component R7 220
