@@ -1,0 +1,23 @@
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=Net_1
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=Net_1
+Change Net Name : Old Net Name=NetLED3_2 New Net Name=Net_1
+Change Net Name : Old Net Name=NetLED4_2 New Net Name=Net_1
+Change Net Name : Old Net Name=NetLED5_2 New Net Name=Net_1
+Change Net Name : Old Net Name=NetLED6_2 New Net Name=Net_1
+Change Net Name : Old Net Name=NetLED7_2 New Net Name=Net_1
+Added Member To Class: ClassName=uln2003_Shematics Member=Component  (LED1) 150080BS75000
+Added Member To Class: ClassName=uln2003_Shematics Member=Component  (J3) Header Pins
+Added Member To Class: ClassName=uln2003_Shematics Member=Component  (LED4) 150080BS75000
+Added Member To Class: ClassName=uln2003_Shematics Member=Component  (R1) 220
+Added Member To Class: ClassName=uln2003_Shematics Member=Component  (R4) 220
+Added Member To Class: ClassName=uln2003_Shematics Member=Component  (LED5) 150080BS75000
+Added Member To Class: ClassName=uln2003_Shematics Member=Component  (R7) 220
+Added Member To Class: ClassName=uln2003_Shematics Member=Component  (R3) 220
+Added Member To Class: ClassName=uln2003_Shematics Member=Component  (R5) 220
+Added Member To Class: ClassName=uln2003_Shematics Member=Component  (LED7) 150080BS75000
+Added Member To Class: ClassName=uln2003_Shematics Member=Component  (LED3) 150080BS75000
+Added Member To Class: ClassName=uln2003_Shematics Member=Component  (R6) 220
+Added Member To Class: ClassName=uln2003_Shematics Member=Component  (LED6) 150080BS75000
+Added Member To Class: ClassName=uln2003_Shematics Member=Component  (R2) 220
+Added Member To Class: ClassName=uln2003_Shematics Member=Component  (LED2) 150080BS75000
+Added Room: Name=uln2003_Shematics

@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MPRJBCLL
 
 [Document5]
 DocumentPath=..\..\..\..\Documents\AltiumLL\SamacSys.SchLib
@@ -120,7 +120,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NGLTGAHM
 
 [Document6]
 DocumentPath=..\..\..\..\..\Downloads\Compressed\ACR-Components-main_2\ACR-Components-main\ACR Components.PcbLib
@@ -205,7 +205,62 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+DocumentUniqueId=OOBUTRYR
+
+[Document11]
+DocumentPath=..\..\..\..\..\Downloads\SBH11-PBPC-D05-ST-BK\SBH11-PBPC-D05-ST-BK.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document12]
+DocumentPath=..\..\..\..\..\Downloads\SBH11-PBPC-D05-ST-BK\SULLINS_SBH11-PBPC-D05-ST-BK.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NESJGVNK
+
+[Document13]
+DocumentPath=..\..\..\..\..\Downloads\AMS1117-5.0\SOT229P700X180-4N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_Project\Design Rule Check - uln2003_PCB.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
